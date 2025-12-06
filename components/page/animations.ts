@@ -1,3 +1,5 @@
+//This component is related to animation
+
 import { Variants } from "framer-motion";
 
 export const animation: Variants = {
