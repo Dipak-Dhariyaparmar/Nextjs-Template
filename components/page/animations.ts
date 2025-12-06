@@ -1,4 +1,4 @@
-//This component is related to animation
+//This component is related to animations
 
 import { Variants } from "framer-motion";
 
